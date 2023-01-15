@@ -1,0 +1,17 @@
+{
+    "name": "Ad Skipper",
+    "version": "1.0",
+    "description": "Ad Skipper",
+    "content_scripts":[{
+        "js":["script.js"],
+        "run_at": "document_idle",
+        "matches": ["https://www.youtube.com/*"]
+    }],
+
+    "permisions":[
+        "tabs",
+        "activeTab"
+    ],
+
+    "manifest_version": 2
+}
