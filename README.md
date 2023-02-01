@@ -1,2 +1,2 @@
 # AdSkipper
-Youtube'daki videolara reklam gelir gelmez skip butonu gizli olsa bile tıklar reklamı atlatır.
+Youtube'daki videolara reklam gelir gelmez, reklamdaki skip butonu gizli olsa bile butona tıklar reklamı atlatır.
